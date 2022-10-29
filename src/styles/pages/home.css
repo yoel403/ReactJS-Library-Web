@@ -1,0 +1,29 @@
+.list-book{
+    justify-content: center;
+    overflow: hidden !important; 
+    display: flex;
+}
+
+@media screen and (max-width:768px){
+    .list-book{
+        display: block;
+        justify-content: center;
+        padding-top:15px ;
+    }
+    .card{
+        margin-top: 15px !important;
+    }
+}
+
+h2{
+    margin: 20px !important;
+}
+
+.list-book .card{
+ margin-left: 20px !important;
+ margin-right: 20px !important;
+}
+
+.list-book .card-img-top{
+    height: 180px;
+}

@@ -1,0 +1,17 @@
+.Wrapper{
+    display: flex;
+    height: 100vh;
+}
+
+.Wrapper .leftside{
+    width: 55%;
+    background-image: url(https://images.unsplash.com/photo-1661956602139-ec64991b8b16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=365&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Wrapper .rightside{
+    flex: 1;
+}
+

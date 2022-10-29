@@ -1,0 +1,42 @@
+.carousel{
+    height: 200px;
+}
+
+.gallery-cell {
+    width: 35%;
+    height: 150px;
+    margin-right: 100px !important;
+    background-image: url(../../assets/uburubur.png);
+    counter-increment: gallery-cell;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    border-radius: 20px;
+
+}
+
+.is-selected{
+    height: 200px;
+    transition: 0.2s;
+    display: block;
+}
+
+.slide-2{
+    background-image: url(../../assets/dilan.png);
+}
+
+.slide-3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjim11BROBZBueGIHdpy5U92WBr-IKMS-6g&usqp=CAU);
+}
+
+.carousel-caption{
+    width: auto;
+    border-radius: 0px 0px 15px 15px;
+    position: -webkit-sticky;
+}
+
+.carousel-caption a{
+    color: black !important;
+    font-weight: 800 !important;
+    text-decoration: none;
+}

@@ -1,0 +1,31 @@
+
+button{
+    text-decoration: none !important;
+    border-radius: 5px !important;
+    font-size: 17px;
+    bottom: 0 !important;
+}
+
+button.login{
+    background: #000000 !important;
+    border-radius: 5px;
+    line-height: 17px !important;
+    border: 1px solid #000000;
+    margin-right: 12px !important;
+}
+
+button.signup{
+    background: #FFFFFF !important;
+    border: 1px solid #D0CCCC !important;
+    border-radius: 5px;
+    line-height: 17px !important;
+    color:#D0CCCC !important;
+}
+
+form link button{
+    margin-right: 20px;
+}
+
+.checkout{
+    padding: 0 !important;
+}

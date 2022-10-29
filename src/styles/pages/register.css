@@ -1,0 +1,52 @@
+.Wrapper{
+    display: flex;
+    height: 100vh;
+}
+
+.Wrapper .leftside{
+    width: 55%;
+    background-image: url(https://images.unsplash.com/photo-1661956602139-ec64991b8b16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=365&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.leftside h2{
+    color: white;
+    font-weight: 500;
+    margin: 20px !important;
+    font-size: 40px !important;
+    letter-spacing: 2px !important;
+}
+
+.Wrapper .rightside{
+    flex: 1;
+    align-content: center;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.rightside h2{
+    font-size: 60px;
+}
+
+.rightside .formss{
+    margin-top: 13% !important;
+}
+
+.rightside form{
+    width: 80% !important;
+}
+
+.rightside img{
+    float: right;
+}
+
+.rightside button{
+    margin-top: 30px !important;
+}
+
+.copyright{
+    padding: 0 !important;
+    margin-top: 15px !important;
+}

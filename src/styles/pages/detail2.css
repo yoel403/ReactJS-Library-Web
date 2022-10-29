@@ -1,0 +1,17 @@
+.Upubur{
+    background-image: url(../../assets/uburubur.png); 
+    height: 250px !important;
+    margin: 0 0 -150px 0 !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Upubur button{
+    color: white;
+    font-size: 30px;
+    line-height: 39px;
+    padding-right: 15px !important;
+    font-weight: bold;
+    border: none;
+    background: none;
+}

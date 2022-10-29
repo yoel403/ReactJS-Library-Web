@@ -1,0 +1,22 @@
+.modal-button{
+    background: none !important;
+    border: none !important;
+    text-decoration: none !important;
+}
+
+.footer-button{
+    background-color: orange !important;
+    border: none !important;
+}
+
+.modal-dialog{
+    margin: 0 auto !important;
+}
+
+.modalcheck{
+    margin: auto !important;
+}
+
+.editBG{
+    background-color: orange !important;
+}
