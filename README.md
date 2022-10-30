@@ -2,6 +2,8 @@
 Deskripsi singkat tentang Project ini 
 Project ini adalah website dimana user ingin membaca, meminjam, menambahkan atau meng edit sebuah buku yang dimana project ini dapat membantu user untuk mencari buku yang ingin di baca dengan mudah. User juga dapat menambahkan sebuah buku ke dalam website tersebut sehingga website ini juga bisa menyimpan file buku yang sudah di daftarkan dan dapat dengan mudah mencari nya kembali karena sudah tersimpan di dalam library ini
 
+Masuk ke library melalui link berikut https://yoel-library.netlify.app/
+
 <h1>How to use</h1>
 Step by step bagi user untuk menggunakan website ini
 1. masuk ke halaman login jika belum punya akun maka click tombol sign up untuk membuat akun, jika sudah silahkan masukan akun yang sudah dibuat (Untuk sekarang login dengan email "yoel@gmail.com" dan dengan pass "yoel120804")
